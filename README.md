@@ -1,2 +1,2 @@
-# three-dots-lib
+# three-dots-cli
 For Rust CLI
